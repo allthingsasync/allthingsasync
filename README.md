@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @allthingsasync
-- 👀 I’m interested in Systems and Cloud development
-- 🌱 I’m currently learning Go
-- 📫 How to reach me @allthingsasync on twitter
+- Hi, I’m Gaganjyot Singh
+- I’m interested in Systems and Cloud development
+- I like Go, Rust and Typescript.
+- My Daily Driver is C#.
+- Reach me @allthingsasync on twitter
